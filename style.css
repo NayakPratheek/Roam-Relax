@@ -398,6 +398,7 @@ body {
 
 .footer-col ul li a:hover {
     color: #ffff;
+    transform: scale(1.04);
 
 }
 
@@ -426,6 +427,7 @@ ul {
 .footer-col .social-links a:hover {
     color: #24262b;
     background-color: #ffffff;
+    transform: scale(1.04);
 }
 
 .footer-col .social-links p {
