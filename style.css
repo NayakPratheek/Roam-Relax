@@ -124,8 +124,9 @@ body {
 .dest input,
 .inout input {
     border: none;
-    border-radius: 5px;
+    border-radius: 20px;
     background-color: rgba(51, 51, 51, 0)fff;
+    padding: 5px;
 }
 
 .srch button {
